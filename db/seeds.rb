@@ -1,6 +1,6 @@
 # Create a main sample user.
 User.create!(name:  "Sadio Mane",
-             email: "team2@hedspi.con",
+             email: "team2@hedspi.com",
              password:              "123456",
              password_confirmation: "123456",
              admin:     true,
