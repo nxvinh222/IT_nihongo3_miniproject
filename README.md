@@ -5,7 +5,7 @@
 To get started with the app, first clone the repo and `cd` into the directory:
 
 ```
-$ git clone https://github.com/mhartl/sample_app_6th_ed.git
+$ git clone https://github.com/nxvinh222/IT_nihongo3_miniproject
 $ cd sample_app_6th_ed
 ```
 
